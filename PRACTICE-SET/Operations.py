@@ -60,3 +60,18 @@ print("---------Problem-2---------")
 num = float(input("Enter a number: "))
 is_between = 10 <= num <= 50
 print(is_between)
+
+print("========SHORTHAND NOTATION==========")
+
+# balance = 5000 , Withdraw ₹1000 using augmented assignment.
+print("----------Problem-1-----------")
+account_balance = 5000
+account_balance -= 1000
+print(f"Account balance is {account_balance}")
+
+# number = 100, Find its remainder after dividing by 7 using augmented assignment.
+
+print("---------Problem-2-----------")
+num = 100
+num %= 7
+print(f"The remainder of 100 % 7 is {num}")
