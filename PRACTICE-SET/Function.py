@@ -3,24 +3,24 @@
 2. Create a function show_name(name) that prints the user's name.
 3. Create a function square(number) that returns the square.'''
 
-# print("====Problem-1====")
-# def greet():
-#     print("Welcome to Python")
+print("====Problem-1====")
+def greet():
+    print("Welcome to Python")
     
-# greet()    
+greet()    
 
 
-# print("====Problem-2====")    
-# def show_name(name):
-#     print(name)
+print("====Problem-2====")    
+def show_name(name):
+    print(name)
     
-# show_name("Naveen")    
+show_name("Naveen")    
 
-# print("====Problem-3====")
-# def square(num):
-#     return num ** 2
+print("====Problem-3====")
+def square(num):
+    return num ** 2
 
-# print(square(5))
+print(square(5))
 
 '''Level 2 — Parameters + Return
 
