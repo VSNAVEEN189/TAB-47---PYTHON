@@ -1,0 +1,12 @@
+[
+    {
+        "amount": 2000.0,
+        "category": "Grocery",
+        "note": "Dairy,rice"
+    },
+    {
+        "amount": 40000.0,
+        "category": "Electronic",
+        "note": "Mobile"
+    }
+]
