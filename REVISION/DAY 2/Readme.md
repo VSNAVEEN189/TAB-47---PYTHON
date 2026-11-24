@@ -5,7 +5,7 @@ A simple Python program that calculates the total shopping bill based on item pr
 
 ## Concepts Practiced
 - User input using input()
-- Type conversion using inint() and float()
+- Type conversion using init() and float()
 - Arithmetic operators
 - Calculating percentage discounts
 - Displaying calculated results
